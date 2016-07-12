@@ -162,7 +162,7 @@ ul, ol, dl {
     margin-top: 1em;
     padding-bottom: 1em;
     border: none;
-    background: transparent url('../images/hr.png') 0 0 no-repeat;
+    background: transparent url('../images/download-button.png') 0 0 no-repeat;
 }
 table {
     width: 100%;
@@ -282,7 +282,7 @@ dl dd {
     font-weight: 100;
 }
 footer {
-    background: transparent url('../images/hr.png') 0 0 no-repeat;
+    background: transparent url('../images/download-button.png') 0 0 no-repeat;
     margin-top: 40px;
     padding-top: 20px;
     padding-bottom: 30px;
